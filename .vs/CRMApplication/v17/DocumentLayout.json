@@ -1,0 +1,341 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\karas\\source\\repos\\CRMApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{22A7C9FC-A0D7-4E75-B258-125E9F6262E0}|CRMApplication\\CRMApplication.csproj|c:\\users\\karas\\source\\repos\\crmapplication\\crmapplication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{22A7C9FC-A0D7-4E75-B258-125E9F6262E0}|CRMApplication\\CRMApplication.csproj|solutionrelative:crmapplication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22A7C9FC-A0D7-4E75-B258-125E9F6262E0}|CRMApplication\\CRMApplication.csproj|c:\\users\\karas\\source\\repos\\crmapplication\\crmapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22A7C9FC-A0D7-4E75-B258-125E9F6262E0}|CRMApplication\\CRMApplication.csproj|solutionrelative:crmapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22A7C9FC-A0D7-4E75-B258-125E9F6262E0}|CRMApplication\\CRMApplication.csproj|c:\\users\\karas\\source\\repos\\crmapplication\\crmapplication\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22A7C9FC-A0D7-4E75-B258-125E9F6262E0}|CRMApplication\\CRMApplication.csproj|solutionrelative:crmapplication\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22A7C9FC-A0D7-4E75-B258-125E9F6262E0}|CRMApplication\\CRMApplication.csproj|c:\\users\\karas\\source\\repos\\crmapplication\\crmapplication\\crmapplication.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{22A7C9FC-A0D7-4E75-B258-125E9F6262E0}|CRMApplication\\CRMApplication.csproj|solutionrelative:crmapplication\\crmapplication.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22A7C9FC-A0D7-4E75-B258-125E9F6262E0}|CRMApplication\\CRMApplication.csproj|c:\\users\\karas\\source\\repos\\crmapplication\\crmapplication\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{22A7C9FC-A0D7-4E75-B258-125E9F6262E0}|CRMApplication\\CRMApplication.csproj|solutionrelative:crmapplication\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22A7C9FC-A0D7-4E75-B258-125E9F6262E0}|CRMApplication\\CRMApplication.csproj|c:\\users\\karas\\source\\repos\\crmapplication\\crmapplication\\controllers\\loanscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22A7C9FC-A0D7-4E75-B258-125E9F6262E0}|CRMApplication\\CRMApplication.csproj|solutionrelative:crmapplication\\controllers\\loanscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22A7C9FC-A0D7-4E75-B258-125E9F6262E0}|CRMApplication\\CRMApplication.csproj|c:\\users\\karas\\source\\repos\\crmapplication\\crmapplication\\models\\loan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22A7C9FC-A0D7-4E75-B258-125E9F6262E0}|CRMApplication\\CRMApplication.csproj|solutionrelative:crmapplication\\models\\loan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22A7C9FC-A0D7-4E75-B258-125E9F6262E0}|CRMApplication\\CRMApplication.csproj|c:\\users\\karas\\source\\repos\\crmapplication\\crmapplication\\controllers\\depositscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22A7C9FC-A0D7-4E75-B258-125E9F6262E0}|CRMApplication\\CRMApplication.csproj|solutionrelative:crmapplication\\controllers\\depositscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22A7C9FC-A0D7-4E75-B258-125E9F6262E0}|CRMApplication\\CRMApplication.csproj|c:\\users\\karas\\source\\repos\\crmapplication\\crmapplication\\controllers\\cardscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22A7C9FC-A0D7-4E75-B258-125E9F6262E0}|CRMApplication\\CRMApplication.csproj|solutionrelative:crmapplication\\controllers\\cardscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22A7C9FC-A0D7-4E75-B258-125E9F6262E0}|CRMApplication\\CRMApplication.csproj|c:\\users\\karas\\source\\repos\\crmapplication\\crmapplication\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22A7C9FC-A0D7-4E75-B258-125E9F6262E0}|CRMApplication\\CRMApplication.csproj|solutionrelative:crmapplication\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22A7C9FC-A0D7-4E75-B258-125E9F6262E0}|CRMApplication\\CRMApplication.csproj|c:\\users\\karas\\source\\repos\\crmapplication\\crmapplication\\services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22A7C9FC-A0D7-4E75-B258-125E9F6262E0}|CRMApplication\\CRMApplication.csproj|solutionrelative:crmapplication\\services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22A7C9FC-A0D7-4E75-B258-125E9F6262E0}|CRMApplication\\CRMApplication.csproj|c:\\users\\karas\\source\\repos\\crmapplication\\crmapplication\\data\\crmcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22A7C9FC-A0D7-4E75-B258-125E9F6262E0}|CRMApplication\\CRMApplication.csproj|solutionrelative:crmapplication\\data\\crmcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22A7C9FC-A0D7-4E75-B258-125E9F6262E0}|CRMApplication\\CRMApplication.csproj|c:\\users\\karas\\source\\repos\\crmapplication\\crmapplication\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22A7C9FC-A0D7-4E75-B258-125E9F6262E0}|CRMApplication\\CRMApplication.csproj|solutionrelative:crmapplication\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22A7C9FC-A0D7-4E75-B258-125E9F6262E0}|CRMApplication\\CRMApplication.csproj|c:\\users\\karas\\source\\repos\\crmapplication\\crmapplication\\models\\deposit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22A7C9FC-A0D7-4E75-B258-125E9F6262E0}|CRMApplication\\CRMApplication.csproj|solutionrelative:crmapplication\\models\\deposit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22A7C9FC-A0D7-4E75-B258-125E9F6262E0}|CRMApplication\\CRMApplication.csproj|c:\\users\\karas\\source\\repos\\crmapplication\\crmapplication\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22A7C9FC-A0D7-4E75-B258-125E9F6262E0}|CRMApplication\\CRMApplication.csproj|solutionrelative:crmapplication\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22A7C9FC-A0D7-4E75-B258-125E9F6262E0}|CRMApplication\\CRMApplication.csproj|c:\\users\\karas\\source\\repos\\crmapplication\\crmapplication\\models\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22A7C9FC-A0D7-4E75-B258-125E9F6262E0}|CRMApplication\\CRMApplication.csproj|solutionrelative:crmapplication\\models\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22A7C9FC-A0D7-4E75-B258-125E9F6262E0}|CRMApplication\\CRMApplication.csproj|c:\\users\\karas\\source\\repos\\crmapplication\\crmapplication\\models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22A7C9FC-A0D7-4E75-B258-125E9F6262E0}|CRMApplication\\CRMApplication.csproj|solutionrelative:crmapplication\\models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22A7C9FC-A0D7-4E75-B258-125E9F6262E0}|CRMApplication\\CRMApplication.csproj|c:\\users\\karas\\source\\repos\\crmapplication\\crmapplication\\models\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22A7C9FC-A0D7-4E75-B258-125E9F6262E0}|CRMApplication\\CRMApplication.csproj|solutionrelative:crmapplication\\models\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22A7C9FC-A0D7-4E75-B258-125E9F6262E0}|CRMApplication\\CRMApplication.csproj|c:\\users\\karas\\source\\repos\\crmapplication\\crmapplication\\crmapplication.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{22A7C9FC-A0D7-4E75-B258-125E9F6262E0}|CRMApplication\\CRMApplication.csproj|solutionrelative:crmapplication\\crmapplication.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22A7C9FC-A0D7-4E75-B258-125E9F6262E0}|CRMApplication\\CRMApplication.csproj|c:\\users\\karas\\source\\repos\\crmapplication\\crmapplication\\migrations\\20240714135658_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22A7C9FC-A0D7-4E75-B258-125E9F6262E0}|CRMApplication\\CRMApplication.csproj|solutionrelative:crmapplication\\migrations\\20240714135658_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CRMApplication.http",
+              "DocumentMoniker": "C:\\Users\\karas\\source\\repos\\CRMApplication\\CRMApplication\\CRMApplication.http",
+              "RelativeDocumentMoniker": "CRMApplication\\CRMApplication.http",
+              "ToolTip": "C:\\Users\\karas\\source\\repos\\CRMApplication\\CRMApplication\\CRMApplication.http",
+              "RelativeToolTip": "CRMApplication\\CRMApplication.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-07-14T14:07:35.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "20240714135658_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\karas\\source\\repos\\CRMApplication\\CRMApplication\\Migrations\\20240714135658_InitialCreate.cs",
+              "RelativeDocumentMoniker": "CRMApplication\\Migrations\\20240714135658_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\karas\\source\\repos\\CRMApplication\\CRMApplication\\Migrations\\20240714135658_InitialCreate.cs",
+              "RelativeToolTip": "CRMApplication\\Migrations\\20240714135658_InitialCreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T13:56:59.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoansController.cs",
+              "DocumentMoniker": "C:\\Users\\karas\\source\\repos\\CRMApplication\\CRMApplication\\Controllers\\LoansController.cs",
+              "RelativeDocumentMoniker": "CRMApplication\\Controllers\\LoansController.cs",
+              "ToolTip": "C:\\Users\\karas\\source\\repos\\CRMApplication\\CRMApplication\\Controllers\\LoansController.cs",
+              "RelativeToolTip": "CRMApplication\\Controllers\\LoansController.cs",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAowFoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T12:49:35.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\karas\\source\\repos\\CRMApplication\\CRMApplication\\Program.cs",
+              "RelativeDocumentMoniker": "CRMApplication\\Program.cs",
+              "ToolTip": "C:\\Users\\karas\\source\\repos\\CRMApplication\\CRMApplication\\Program.cs",
+              "RelativeToolTip": "CRMApplication\\Program.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAAADMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T12:47:05.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\karas\\source\\repos\\CRMApplication\\CRMApplication\\appsettings.json",
+              "RelativeDocumentMoniker": "CRMApplication\\appsettings.json",
+              "ToolTip": "C:\\Users\\karas\\source\\repos\\CRMApplication\\CRMApplication\\appsettings.json",
+              "RelativeToolTip": "CRMApplication\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-14T12:37:08.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Loan.cs",
+              "DocumentMoniker": "C:\\Users\\karas\\source\\repos\\CRMApplication\\CRMApplication\\Models\\Loan.cs",
+              "RelativeDocumentMoniker": "CRMApplication\\Models\\Loan.cs",
+              "ToolTip": "C:\\Users\\karas\\source\\repos\\CRMApplication\\CRMApplication\\Models\\Loan.cs",
+              "RelativeToolTip": "CRMApplication\\Models\\Loan.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T12:51:53.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DepositsController.cs",
+              "DocumentMoniker": "C:\\Users\\karas\\source\\repos\\CRMApplication\\CRMApplication\\Controllers\\DepositsController.cs",
+              "RelativeDocumentMoniker": "CRMApplication\\Controllers\\DepositsController.cs",
+              "ToolTip": "C:\\Users\\karas\\source\\repos\\CRMApplication\\CRMApplication\\Controllers\\DepositsController.cs",
+              "RelativeToolTip": "CRMApplication\\Controllers\\DepositsController.cs",
+              "ViewState": "AQIAAFgAAAAAAAAAAAAQwF0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T12:49:11.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\karas\\source\\repos\\CRMApplication\\CRMApplication\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "CRMApplication\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\karas\\source\\repos\\CRMApplication\\CRMApplication\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "CRMApplication\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwCEAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T12:48:25.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\karas\\source\\repos\\CRMApplication\\CRMApplication\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "CRMApplication\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\karas\\source\\repos\\CRMApplication\\CRMApplication\\Properties\\launchSettings.json",
+              "RelativeToolTip": "CRMApplication\\Properties\\launchSettings.json",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-14T14:07:43.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CardsController.cs",
+              "DocumentMoniker": "C:\\Users\\karas\\source\\repos\\CRMApplication\\CRMApplication\\Controllers\\CardsController.cs",
+              "RelativeDocumentMoniker": "CRMApplication\\Controllers\\CardsController.cs",
+              "ToolTip": "C:\\Users\\karas\\source\\repos\\CRMApplication\\CRMApplication\\Controllers\\CardsController.cs",
+              "RelativeToolTip": "CRMApplication\\Controllers\\CardsController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAADwvwcAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T12:48:48.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\karas\\source\\repos\\CRMApplication\\CRMApplication\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "CRMApplication\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\karas\\source\\repos\\CRMApplication\\CRMApplication\\Services\\AuthService.cs",
+              "RelativeToolTip": "CRMApplication\\Services\\AuthService.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAYwEAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T12:52:59.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\karas\\source\\repos\\CRMApplication\\CRMApplication\\Services\\IAuthService.cs",
+              "RelativeDocumentMoniker": "CRMApplication\\Services\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\karas\\source\\repos\\CRMApplication\\CRMApplication\\Services\\IAuthService.cs",
+              "RelativeToolTip": "CRMApplication\\Services\\IAuthService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T12:52:45.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CRMContext.cs",
+              "DocumentMoniker": "C:\\Users\\karas\\source\\repos\\CRMApplication\\CRMApplication\\Data\\CRMContext.cs",
+              "RelativeDocumentMoniker": "CRMApplication\\Data\\CRMContext.cs",
+              "ToolTip": "C:\\Users\\karas\\source\\repos\\CRMApplication\\CRMApplication\\Data\\CRMContext.cs",
+              "RelativeToolTip": "CRMApplication\\Data\\CRMContext.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwAoAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T12:53:58.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\karas\\source\\repos\\CRMApplication\\CRMApplication\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "CRMApplication\\Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\karas\\source\\repos\\CRMApplication\\CRMApplication\\Models\\Customer.cs",
+              "RelativeToolTip": "CRMApplication\\Models\\Customer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T12:51:31.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Deposit.cs",
+              "DocumentMoniker": "C:\\Users\\karas\\source\\repos\\CRMApplication\\CRMApplication\\Models\\Deposit.cs",
+              "RelativeDocumentMoniker": "CRMApplication\\Models\\Deposit.cs",
+              "ToolTip": "C:\\Users\\karas\\source\\repos\\CRMApplication\\CRMApplication\\Models\\Deposit.cs",
+              "RelativeToolTip": "CRMApplication\\Models\\Deposit.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T12:52:04.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\karas\\source\\repos\\CRMApplication\\CRMApplication\\Models\\User.cs",
+              "RelativeDocumentMoniker": "CRMApplication\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\karas\\source\\repos\\CRMApplication\\CRMApplication\\Models\\User.cs",
+              "RelativeToolTip": "CRMApplication\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T12:50:03.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Card.cs",
+              "DocumentMoniker": "C:\\Users\\karas\\source\\repos\\CRMApplication\\CRMApplication\\Models\\Card.cs",
+              "RelativeDocumentMoniker": "CRMApplication\\Models\\Card.cs",
+              "ToolTip": "C:\\Users\\karas\\source\\repos\\CRMApplication\\CRMApplication\\Models\\Card.cs",
+              "RelativeToolTip": "CRMApplication\\Models\\Card.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T12:51:45.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "C:\\Users\\karas\\source\\repos\\CRMApplication\\CRMApplication\\Models\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "CRMApplication\\Models\\LoginRequest.cs",
+              "ToolTip": "C:\\Users\\karas\\source\\repos\\CRMApplication\\CRMApplication\\Models\\LoginRequest.cs",
+              "RelativeToolTip": "CRMApplication\\Models\\LoginRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T12:50:22.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "RegisterRequest.cs",
+              "DocumentMoniker": "C:\\Users\\karas\\source\\repos\\CRMApplication\\CRMApplication\\Models\\RegisterRequest.cs",
+              "RelativeDocumentMoniker": "CRMApplication\\Models\\RegisterRequest.cs",
+              "ToolTip": "C:\\Users\\karas\\source\\repos\\CRMApplication\\CRMApplication\\Models\\RegisterRequest.cs",
+              "RelativeToolTip": "CRMApplication\\Models\\RegisterRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T12:51:18.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CRMApplication.csproj",
+              "DocumentMoniker": "C:\\Users\\karas\\source\\repos\\CRMApplication\\CRMApplication\\CRMApplication.csproj",
+              "RelativeDocumentMoniker": "CRMApplication\\CRMApplication.csproj",
+              "ToolTip": "C:\\Users\\karas\\source\\repos\\CRMApplication\\CRMApplication\\CRMApplication.csproj",
+              "RelativeToolTip": "CRMApplication\\CRMApplication.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-14T12:10:10.708Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
